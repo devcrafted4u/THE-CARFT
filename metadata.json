@@ -1,0 +1,6 @@
+{
+  "name": "L'Aura Fine Jewellery",
+  "description": "Exquisite fine jewellery catalog featuring high-clarity diamonds, 18k gold, and precious gemstones on pure white catalog showcases with elegant typography and smooth zoom exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
